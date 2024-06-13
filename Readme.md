@@ -43,7 +43,7 @@ Install dependencies:
     express: "^4.18.3",
     mongoose: "^8.2.1"
 
-# Set up the environment variables:
+## Set up the environment variables:
 Create a .env file in the root directory of backend folder and add the following:
 
 env
@@ -60,7 +60,7 @@ Start the frontend development server:
 npm run server
 npm start
 
-Accessing the Application
+## Accessing the Application
 Open your browser and navigate to http://localhost:3000 to access the application.
 
 API Endpoints
@@ -72,7 +72,7 @@ PUT /api/users/:id - Update a user by ID
 DELETE /api/users/:id - Delete a user by ID
 
 
-Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 
 Fork the repository
@@ -81,7 +81,8 @@ Make your changes
 Commit your changes (git commit -m 'Add some feature')
 Push to the branch (git push origin feature/......)
 Open a pull request
-License
+
+## License
 This project is licensed under the MIT License.
 
 Contact
