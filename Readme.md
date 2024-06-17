@@ -88,5 +88,5 @@ This project is licensed under the MIT License.
 Contact
 For any questions or suggestions, feel free to reach out:
 
-Your Name: your-baibhavchoudhary5@example.com
+Email: your-baibhavchoudhary5@gmail.com
 GitHub: Baibhavkr001
